@@ -1,5 +1,5 @@
 # 🛒 FreshMart AI-Agent – BI-Projekt FHNW
-## Business Intelligence | ffnlw04 | Prof. Dr. Manuel Renold
+## Business Intelligence | Prof. Dr. Manuel Renold
 
 ---
 
